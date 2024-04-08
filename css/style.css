@@ -142,9 +142,20 @@ img {
         padding-bottom: 70px;
     }
 
+    .steps {
+        margin: 0;
+        padding-bottom: 0;
+    }
+
     .steps .col {
         width: 100%;
         padding-bottom: 70px;
+    }
+
+    .why-us {
+        padding-top: 3rem;
+        padding-bottom: 0;
+        background-color: black;
     }
 
     .why-us .col {
